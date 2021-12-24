@@ -128,7 +128,7 @@ td {
 
 .profile__portrait {
 	float: left;
-	width: 250px;
+	width: 300px;
 	margin-right: 40px;
 	border-radius: 50% 50% 50% 50%;
 }
@@ -154,7 +154,7 @@ td {
 	background-color: var(--header-bg-color);
 	display: flex;
 	width: 100%;
-	padding: 20px;
+	padding: 5px;
 }
 
 .page-header__item {
@@ -174,7 +174,8 @@ td {
 
 .navigation-list li {
 	display: inline-block;
-	margin-left: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 .navigation-list__item--active {
@@ -261,7 +262,8 @@ td {
 }
 
 #logo {
-	width: 90px;
+	width: 100px;
+	margin-left: 30px;
 	animation-duration: 15s;
 	animation-name: logo-rotate;
 	animation-iteration-count: infinite;
