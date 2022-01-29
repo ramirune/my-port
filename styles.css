@@ -149,17 +149,19 @@ body {
 
 .skill-tb {
 	margin-top: 40px;
-	width: 300px;
+	width: 400px;
 	background-color: #e2e1db;
 }
 
 .table-header {
-	font-size: 20px;
+	text-align: left;
+	font-size: 18px;
 	font-weight: bolder;
 	color: #613333;
 }
 .table-body {
 	color: #613333;
+	text-align: left;
 }
 
 /* Grid */
